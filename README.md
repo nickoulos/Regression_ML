@@ -21,4 +21,4 @@
 3. Ensemble Neural Network
 4. Random Forest (includng hyper parameter tuning)
 5. Gradient Boosting Regression (includng hyper parameter tuning)
-6. Enselbme Random Forest and Gradient Boosting
+6. Ensemble Random Forest and Gradient Boosting
