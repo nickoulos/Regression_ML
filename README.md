@@ -16,7 +16,7 @@
 3. PCA
 
 ### Model Building
-1. Linear Regrassion 
+1. Linear Regression 
 2. Neural Network
 3. Ensemble Neural Network
 4. Random Forest (includng hyper parameter tuning)
